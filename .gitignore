@@ -1,0 +1,9 @@
+.medrag-env/
+__pycache__/
+*.pyc
+.env
+.env.*
+.idea/
+.vscode/
+.DS_Store
+/medrag.egg-info
